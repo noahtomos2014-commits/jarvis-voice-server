@@ -1,0 +1,12 @@
+{
+  "name": "jarvis-voice-server",
+  "version": "1.0.0",
+  "description": "JARVIS Fish Audio voice server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
